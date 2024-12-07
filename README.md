@@ -32,3 +32,5 @@ This project analyzes customer shopping patterns and visualizes key trends in pu
 
 ## Project snips:
 
+![Screenshot (76)](https://github.com/user-attachments/assets/35296f39-c797-4e55-a238-14eee9b77895)
+
